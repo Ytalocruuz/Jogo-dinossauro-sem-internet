@@ -1,3 +1,6 @@
 # Jogo-dinossauro-sem-internet
 Recriando  o famoso jogo do dinossauro sem internet - Projeto da Digital Innovation One
-#### Com HTML, CSS e JavaScript
+### Esse projeto está sendo desenvolvido seguindo as seguintes tecnologias:
+HTML
+CSS
+JavaScrip
